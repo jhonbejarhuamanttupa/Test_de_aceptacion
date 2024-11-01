@@ -11,9 +11,8 @@ Feature: HU05 - Desactivar notificaciones de actualizaciones importantes del pro
 
     Examples: INPUT
       | acción realizada |
-      | Desactivar        |
+      | Desactivar       |
 
     Examples: OUTPUT
-      | resultado         |
+      | resultado                |
       | Notificaciones desactivadas |
-
