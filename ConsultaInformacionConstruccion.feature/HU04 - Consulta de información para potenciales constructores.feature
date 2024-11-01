@@ -20,3 +20,9 @@ Feature: HU04 - Consulta de información para potenciales constructores
       | permisos legales      |
       | restricciones         |
       | regulaciones          |
+
+          Examples: OUTPUT
+      | información mostrada |
+      | permisos legales      |
+      | restricciones         |
+      | regulaciones          |
