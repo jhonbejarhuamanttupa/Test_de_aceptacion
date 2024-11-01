@@ -19,4 +19,4 @@ Feature: HU03 - Análisis de ubicación para recomendaciones de construcción
       | mensaje de confirmación                  |
       | Ubicación ingresada correctamente        |
       | Análisis de entorno en progreso          |
-hola
+
