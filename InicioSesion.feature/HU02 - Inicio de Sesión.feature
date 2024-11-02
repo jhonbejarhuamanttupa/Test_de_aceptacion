@@ -2,7 +2,7 @@ Feature: HU02 - Inicio de Sesión
   Como interesado en construir un inmueble
   Quiero poder iniciar sesión en mi cuenta
   Para acceder a todas las funcionalidades de la plataforma
-
+Hola
   Scenario: Escenario 01 - Ingreso de credenciales correctas
     Dado que soy un usuario registrado en la plataforma
     Cuando ingreso mi usuario y contraseña en el formulario de inicio de sesión
