@@ -27,5 +27,3 @@ Feature: HU01 - Registro a la App
     Cuando intento registrarme con un correo electrónico que ya está en uso
     Entonces quiero recibir un mensaje de error que me indique que la dirección de correo electrónico ya está asociada a otra cuenta
     Y necesito utilizar un correo electrónico diferente
-
-
