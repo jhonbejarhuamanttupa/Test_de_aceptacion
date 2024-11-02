@@ -3,6 +3,8 @@ Feature: HU01 - Registro a la App
   Quiero poder registrarme en la aplicación
   Para acceder a las funcionalidades de la plataforma
 
+
+  
   Scenario: Escenario 01 - Ingresar formulario de registro
     Dado que soy un nuevo interesado en utilizar la plataforma
     Cuando accedo al formulario de registro
