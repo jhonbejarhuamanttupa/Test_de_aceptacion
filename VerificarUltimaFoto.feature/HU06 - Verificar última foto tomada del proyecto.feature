@@ -2,7 +2,7 @@ Feature: HU06 - Verificar última foto tomada del proyecto
   Como interesado en construir un inmueble
   Quiero verificar la última foto tomada de mi proyecto
   Para estar al tanto de los avances y ver información detallada
-
+ 
   Scenario: Escenario 01 - Ver última foto tomada
     Dado que el usuario quiere revisar la última foto tomada de su proyecto
     Cuando presiona el botón "Ver última foto tomada"
